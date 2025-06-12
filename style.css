@@ -9,6 +9,7 @@
     --button-hover: #012E40;
     --font-body: "Chocolate Classical Sans", serif;
     --font-titulo: "Rakkas", serif;
+    --texto-rodape: white;
 }
 
 /* Reset */
@@ -159,4 +160,12 @@ footer {
     background-color: #222; /* Fundo escuro */
     color: yellow; /* Texto em alto contraste */
     border: 2px solid yellow; /* Melhor destaque */
+}
+
+#fonte-corpo{
+    font-size: 23px;
+}
+
+#cor-rodape{
+    color: white;
 }
